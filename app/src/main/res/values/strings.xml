@@ -1,0 +1,11 @@
+<!--<resources>-->
+    <!--<string name="app_name">lesson5Assignment</string>-->
+<!--</resources>-->
+
+<resources>
+    <string name="app_name">lesson5Assignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter Dollar Amount</string>
+    <string name="view_message">0</string>
+    <string name="button_message">Convert</string>
+</resources>
